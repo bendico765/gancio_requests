@@ -3,7 +3,7 @@ import asyncio
 import aiohttp
 from datetime import datetime, date
 from math import floor
-from .requests import *
+from .request import *
 from .formatting import *
 
 
