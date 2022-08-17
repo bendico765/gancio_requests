@@ -2,7 +2,7 @@
 name = "gancio_requests"
 version = "0.1.0"
 description = "Asynchronous functions for making HTTP requests to Gancio istances"
-authors = ["bendico765 <bendico765@gmail.com>"]
+authors = ["Gianluca Morcaldi <bendico765@gmail.com>"]
 license = "GNU General Public License v3 (GPLv3)"
 
 [tool.poetry.dependencies]
