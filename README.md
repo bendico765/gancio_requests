@@ -18,6 +18,12 @@ pip install -r requirements.txt
 pip install .
 ```
 
+Alternatively use pip
+
+```python
+pip install gancio_requests
+```
+
 ### Dependencies
 At the moment I have tested the library only on _python == 3.10.4_  
 

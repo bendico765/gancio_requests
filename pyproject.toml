@@ -1,9 +1,12 @@
 [tool.poetry]
 name = "gancio_requests"
-version = "0.1.0"
+version = "0.1.2"
 description = "Asynchronous functions for making HTTP requests to Gancio istances"
 authors = ["Gianluca Morcaldi <bendico765@gmail.com>"]
-license = "GNU General Public License v3 (GPLv3)"
+license = "AGPL-3.0-only"
+readme = "README.md"
+homepage = "https://github.com/bendico765/gancio_requests"
+repository = "https://github.com/bendico765/gancio_requests"
 
 [tool.poetry.dependencies]
 python = "^3.10"
